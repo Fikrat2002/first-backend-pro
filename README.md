@@ -1,1 +1,1 @@
-# next.js-first-pro
+#Simple-Next.JS-Project
